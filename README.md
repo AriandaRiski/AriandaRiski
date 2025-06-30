@@ -1,32 +1,28 @@
+# Hi, I'm Muhammad Riski Arianda 👋
 
+Welcome to my GitHub profile!  
 
-<!--
-**AriandaRiski/AriandaRiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 💼 Web Developer
+- 🎓 Background in Computer Science
+- 🤝 Always open to collaboration and networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Muhammad Riski Arianda</h1>
-<h3 align="center">Masih belajar, pengen jadi webdev</h3>
+## 🛠️ Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariandariski&label=Profile%20views&color=0e75b6&style=flat" alt="ariandariski" /> </p>
+- **Languages:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Markup & Styling:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Frameworks:** - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)   ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD0031?style=for-the-badge&logo=codeigniter&logoColor=white)   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- **Others:** RESTful API Development, Version Control (Git & GitHub), Database Management, Debugging & Troubleshooting, Responsive Web Design
 
-- 🌱 I’m currently learning **Laravel, CodeIgniter, JavaScript**
+## 📈 GitHub Stats
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/madeby.ariand/](https://www.instagram.com/madeby.ariand/)
+![AriandaRiski's GitHub stats](https://github-readme-stats.vercel.app/api?username=AriandaRiski&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=default&version=v1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AriandaRiski&hide_current_streak=true)](https://git.io/streak-stats)
 
-- ⚡ Fun fact **I think I am skinny**
+## 📫 Contact
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-0A74DA?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linkiddy.com/mriskiarianda)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad riski arianda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad riski arianda" height="30" width="40" /></a>
-<a href="https://instagram.com/madeby.ariand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madeby.ariand" height="30" width="40" /></a>
-</p>
+---
+
+_Thank you for visiting my profile!_
